@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZUspqe3KmrC88SFoJ8yuMHosfieMG7gLmvXLvRZZ+6c=",
+  "Source": "SportStore.Service.ProductApi",
+  "BasePath": "_content/SportStore.Service.ProductApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

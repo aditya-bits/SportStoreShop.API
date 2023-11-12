@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{BE681C12-C800-4AB2-8A11-987F7732614F}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Services.SportStore.Service.ShoppingCartApi PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.Services.SportStore.Service.ProductApi PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/adityachaudhari/Aditya Data/Work/Sport-Store-API/SportStore/SportStore.Service.ProductApi/Controllers/ProductController.cs" relfile="SportStore.Service.ProductApi/Controllers/ProductController.cs" line="65" column="9" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SportStore.Service.ProductApi/Controllers/ProductController.cs">
+    <Files>
+      <File FileName="SportStore.Service.ProductApi/Controllers/ProductController.cs" Line="65" Column="1" />
+      <File FileName="SportStore.Service.ProductApi/Entities/Product.cs" Line="1" Column="1" />
+      <File FileName="SportStore.Service.ProductApi/Models/ProductDto.cs" Line="5" Column="1" />
+      <File FileName="SportStore.Service.ProductApi/appsettings.json" Line="15" Column="1" />
+      <File FileName="SportStore.Service.ProductApi/DbContexts/ProductContextSeed.cs" Line="23" Column="51" />
+      <File FileName="SportStore.Service.ProductApi/Program.cs" Line="43" Column="1" />
+      <File FileName="SportStore.Service.ShoppingCartApi/appsettings.json" Line="10" Column="1" />
+      <File FileName="SportStore.Service.ShoppingCartApi/Controllers/ShoppingCartController.cs" Line="1" Column="1" />
+      <File FileName="SportStore.Service.ProductApi/DbContexts/ProductContext.cs" Line="21" Column="2" />
+      <File FileName="SportStore.Service.ProductApi/Services/ProductRepository.cs" Line="43" Column="1" />
+      <File FileName="SportStore.Service.ProductApi/DbContexts/IProductContext.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SportStore">
+            <Node name="Services" expanded="True">
+              <Node name="SportStore.Service.ProductApi" expanded="True">
+                <Node name="Controllers" expanded="True">
+                  <Node name="ProductController.cs" selected="True" />
+                </Node>
+                <Node name="DbContexts" expanded="True" />
+                <Node name="Entities" expanded="True" />
+                <Node name="Models" expanded="True" />
+                <Node name="Profiles" expanded="True" />
+                <Node name="Services" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
